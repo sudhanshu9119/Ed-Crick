@@ -1,1 +1,1 @@
-# "jobDekho" This is a MVC based portal that provides the facilicites to job seeker as well as job provider to both.
+# "this is cricket manger app which provides the facilities of manging all aspects of crickets, like score,third ampire decison and many more. 
